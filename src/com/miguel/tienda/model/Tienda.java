@@ -13,5 +13,5 @@ public class Tienda {
     public void setRopas(List<Ropa> ropas) {
         this.ropas = ropas;
     }
-    
+
 }
